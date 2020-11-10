@@ -1,7 +1,6 @@
-### Hi there, I'm NotToxic! 👋
-
-
-
+<!-- Title -->
+<h1 align="center">Hey! 👋 I'm NotToxic</h1>
+<h3 align="center">I am a "developer", music producer, and sometimes gamer. I love <a href="https://open.spotify.com/playlist/2EFvDL2fetMGfbT4nhcq0C?si=oDcssLK5QSmlnwTnaEdJVQ">Electronic and game music</a>. Some of my favorite games include <a href="https://www.minecraft.net/">Minecraft</a> and <a href="https://store.steampowered.com/app/945360/Among_Us/">Among Us</a>.</h3>
 
 ### Contacts:
 
