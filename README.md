@@ -29,9 +29,9 @@
 
 
   ### Github Stats 📄
-![Chromus' Github Stats](https://github-readme-stats.vercel.app/api?username=Chromus-dev&theme=vue&count_private=true&show_icons=true)
+![NotToxicDev' Github Stats](https://github-readme-stats.vercel.app/api?username=NotToxicDev&theme=vue&count_private=true&show_icons=true)
 
-![Chromus' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chromus-dev&layout=compact&theme=vue)
+![NotToxicDev' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotToxicDev&layout=compact&theme=vue)
 
 
 
