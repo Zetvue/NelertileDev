@@ -10,15 +10,13 @@
 
 
 <br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### Languages I'm Familiar With 👨‍💻
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>][html]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>][css]
+[<img src="https://cdn.onlinewebfonts.com/svg/img_2398.svg" alt="markdown" width="40" height="40"/>][markdown]
+### Technologies I'm Familiar With 🔧
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>][vscode]
+[<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/>][github]
 
 <br />
 <br />
@@ -38,3 +36,19 @@
 
 [twitter]: https://twitter.com/NotToxicDev
 [youtube]: https://youtube.com/UCJukw7GFBmagAWuRLnStvqA
+
+<!-- My Links/Socials -->
+[vanillaextract]: https://discord.io/vanillaextract
+[website]: https://nottoxicdev.github.io/toxicsite
+[twitter]: https://twitter.com/NotToxicDev
+[youtube]: https://youtube.com/UCJukw7GFBmagAWuRLnStvqA
+
+<!-- Languages -->
+[html]: https://en.wikipedia.org/wiki/HTML
+[css]: https://en.wikipedia.org/wiki/CSS
+[markdown]: https://www.markdownguide.org/
+
+<!-- Tools -->
+[vscode]: https://code.visualstudio.com/
+[github]: https://www.github.com/
+[javascript]: https://en.wikipedia.org/wiki/JavaScript
