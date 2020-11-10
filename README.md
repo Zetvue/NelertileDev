@@ -1,12 +1,11 @@
 <!-- Title -->
 <h1 align="center">Hey! 👋 I'm NotToxic</h1>
 <h3 align="center">I am a "developer", music producer, and sometimes gamer. I love <a href="https://open.spotify.com/playlist/2EFvDL2fetMGfbT4nhcq0C?si=oDcssLK5QSmlnwTnaEdJVQ">Electronic and game music</a>. Some of my favorite games include <a href="https://www.minecraft.net/">Minecraft</a> and <a href="https://store.steampowered.com/app/945360/Among_Us/">Among Us</a>.</h3>
-
+<h3 align="center"> My website is in progress, click <a herf="https://nottoxicdev.github.io/toxicsite">here</a> to go there!</h3>
 ### Contacts:
 
 [<img align="left" alt="NotToxicDev  | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="NotToxicDev  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<a herf="https://nottoxicdev/github.io/toxicsite">d</a>]
 
 
 
