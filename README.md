@@ -6,8 +6,8 @@
 
 [<img align="left" alt="NotToxicDev  | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="NotToxicDev  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<a href="https://nottoxicdev.github.io/toxicsite">Website</a>
-<a href="https://discord.io/toxics">Discord</a>
+<a href="https://nottoxicdev.github.io/toxicsite">[Website]</a>
+<a href="https://discord.io/toxics">  [Discord]</a>
 
 
 <br />
