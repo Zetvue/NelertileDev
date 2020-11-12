@@ -41,7 +41,7 @@
 
 <!-- My Links/Socials -->
 [vanillaextract]: https://discord.io/vanillaextract
-[website]: https://nottoxicdev.github.io/
+
 [twitter]: https://twitter.com/NotToxicDev
 [youtube]: https://youtube.com/UCJukw7GFBmagAWuRLnStvqA
 
