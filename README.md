@@ -19,18 +19,18 @@
 ][html]
 [<img src="https://cdn.onlinewebfonts.com/svg/img_2398.svg" alt="markdown" width="40" height="40"/>][markdown]
 [<img src="./img/javascript/javascript-original.svg"
-     alt="JS Icon" />][javascript]
+     alt="JS Icon" width="40" height="40"/>][javascript]
 [<img src="./img/python/python-original.svg"
-     alt="Python Icon" />][python]
+     alt="Python Icon" width="40" height="40"/>][python]
 
 ### Technologies I'm Familiar With 🔧
 
 [<img src="./img/vscode/vscode-original.svg"
-     alt="VSCode Icon" />][vscode]
+     alt="VSCode Icon" width="40" height="40"/>][vscode]
 [<img src="./img/github/github-original.svg"
-     alt="Github Icon" />][github]
+     alt="Github Icon" width="40" height="40"/>][github]
 [<img src="./img/nodejs/nodejs-original.svg"
-     alt="Node.js Icon" />][node.js]
+     alt="Node.js Icon" width="40" height="40"/>][node.js]
 
 <br />
 <br />
