@@ -15,13 +15,13 @@
 ### Languages I'm Familiar With 👨‍💻
 
 [<img src="./img/html5/html5-original.svg"
-     alt="HTML5 Icon" />
+     alt="HTML5 Icon" width="40" height="40"/>
 ][html]
 [<img src="https://cdn.onlinewebfonts.com/svg/img_2398.svg" alt="markdown" width="40" height="40"/>][markdown]
-[<img src="./img/javascript/javascript-original.svg"
-     alt="JS Icon" width="40" height="40"/>][javascript]
-[<img src="./img/python/python-original.svg"
-     alt="Python Icon" width="40" height="40"/>][python]
+<img src="./img/javascript/javascript-original.svg"
+     alt="JS Icon" width="40" height="40"/>
+<img src="./img/python/python-original.svg"
+     alt="Python Icon" width="40" height="40"/>
 
 ### Technologies I'm Familiar With 🔧
 
@@ -29,8 +29,8 @@
      alt="VSCode Icon" width="40" height="40"/>][vscode]
 [<img src="./img/github/github-original.svg"
      alt="Github Icon" width="40" height="40"/>][github]
-[<img src="./img/nodejs/nodejs-original.svg"
-     alt="Node.js Icon" width="40" height="40"/>][node.js]
+<img src="./img/nodejs/nodejs-original.svg"
+     alt="Node.js Icon" width="40" height="40"/>
 
 <br />
 <br />
