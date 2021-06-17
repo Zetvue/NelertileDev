@@ -14,17 +14,23 @@
 
 ### Languages I'm Familiar With 👨‍💻
 
-[<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">][html]
+[<img src="./img/html5/html5-original.svg"
+     alt="HTML5 Icon" />
+][html]
 [<img src="https://cdn.onlinewebfonts.com/svg/img_2398.svg" alt="markdown" width="40" height="40"/>][markdown]
-[<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">][javascript]
-[<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">][Python]
+[<img src="./img/javascript/javascript-original.svg"
+     alt="JS Icon" />][javascript]
+[<img src="./img/python/python-original.svg"
+     alt="Python Icon" />][python]
 
 ### Technologies I'm Familiar With 🔧
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>][vscode]
-[<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">][github]
-[<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">][Node.js]
-
+[<img src="./img/vscode/vscode-original.svg"
+     alt="VSCode Icon" />][vscode]
+[<img src="./img/github/github-original.svg"
+     alt="Github Icon" />][github]
+[<img src="./img/nodejs/nodejs-original.svg"
+     alt="Node.js Icon" />][node.js]
 
 <br />
 <br />
