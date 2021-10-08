@@ -8,7 +8,7 @@
 [<img align="left" alt="NotToxicDev  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <a href="https://nottoxicdev.github.io/"> [Website]</a>
-<a href="https://dsc.gg/ntg"> [Discord]</a>
+<a href="https://dsc.gg/ntd"> [Discord]</a>
 
 <br />
 
