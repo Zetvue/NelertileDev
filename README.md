@@ -12,7 +12,7 @@
 
 <br />
 
-### Im part of the
+### Im part of the:
 
 [Vanilla Extract Team](https://github.com/Vanilla-Extract)
 
