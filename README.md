@@ -62,3 +62,8 @@
 
 [vscode]: https://code.visualstudio.com/
 [github]: https://www.github.com/
+
+
+### Credits
+
+Logo made by [Zetvue](https://zetvue.carrd.co)
