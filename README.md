@@ -1,14 +1,13 @@
 <!-- Title -->
 <h1 align="center">Hey! 👋 I'm NotToxic</h1>
-<h3 align="center">I am a "developer", music producer, and sometimes gamer. I love <a href="https://open.spotify.com/playlist/2EFvDL2fetMGfbT4nhcq0C?si=oDcssLK5QSmlnwTnaEdJVQ">Electronic and game music</a>. Some of my favorite games include <a href="https://www.minecraft.net/">Minecraft</a> and <a href="https://store.steampowered.com/app/391540/Undertale/">Undertale</a>.</h3>
+<h3 align="center">I am a "developer", music producer, and sometimes gamer. I love <a href="https://open.spotify.com/playlist/7tXFvBvwaxOAigNjARChJd?si=c1d8ceddeb994dae">lots of music</a>. Some of my favorite games include <a href="https://www.minecraft.net/">Minecraft</a> and <a href="https://genshin.hoyoverse.com/en/home">Genshin Impact</a>.</h3>
 
 ### Contacts:
 
-[<img align="left" alt="NotToxicDev  | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="NotToxicDev  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<a href="https://nottoxicdev.github.io/"> [Website]</a>
-<a href="https://dsc.gg/ntd"> [Discord]</a>
+[Youtube][youtube] |
+[Twitter][twitter] |
+<a href="https://nottoxicdev.github.io/"> Website</a> |
+<a href="https://dsc.gg/ntd"> Discord</a>
 
 <br />
 
@@ -22,10 +21,10 @@
      alt="HTML5 Icon" width="40" height="40"/>
 ][html]
 [<img src="https://cdn.onlinewebfonts.com/svg/img_2398.svg" alt="markdown" width="40" height="40"/>][markdown]
-<img src="./img/javascript/javascript-original.svg"
-     alt="JS Icon" width="40" height="40"/>
-<img src="./img/python/python-original.svg"
-     alt="Python Icon" width="40" height="40"/>
+<img src="./img/java/java-original.svg"
+     alt="Java Icon" width="40" height="40"/>
+<img src="./img/sass/sass-original.svg"
+     alt="Sass Icon" width="40" height="40"/>
 
 ### Technologies I'm Familiar With 🔧
 
@@ -35,6 +34,8 @@
      alt="Github Icon" width="40" height="40"/>][github]
 <img src="./img/nodejs/nodejs-original.svg"
      alt="Node.js Icon" width="40" height="40"/>
+<img src="./img/bash/bash-original.svg" alt="Bash icon" width="40" height="40"/>
+<img src="./img/unity/unity-original.svg" alt="Unity icon" width="40" height="40"/>
 
 <br />
 <br />
@@ -66,7 +67,6 @@
 
 [vscode]: https://code.visualstudio.com/
 [github]: https://www.github.com/
-
 
 ### Credits
 
