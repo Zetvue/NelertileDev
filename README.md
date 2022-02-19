@@ -25,6 +25,8 @@
      alt="Java Icon" width="40" height="40"/>
 <img src="./img/sass/sass-original.svg"
      alt="Sass Icon" width="40" height="40"/>
+<img src="./img/csharp/csharp-original.svg"
+     alt="C# Icon" width="40" height="40"/>
 
 ### Technologies I'm Familiar With 🔧
 
