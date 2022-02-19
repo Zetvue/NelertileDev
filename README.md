@@ -34,8 +34,6 @@
      alt="VSCode Icon" width="40" height="40"/>][vscode]
 [<img src="./img/github/github-original.svg"
      alt="Github Icon" width="40" height="40"/>][github]
-<img src="./img/nodejs/nodejs-original.svg"
-     alt="Node.js Icon" width="40" height="40"/>
 <img src="./img/bash/bash-original.svg" alt="Bash icon" width="40" height="40"/>
 <img src="./img/unity/unity-original.svg" alt="Unity icon" width="40" height="40"/>
 
