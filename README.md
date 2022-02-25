@@ -4,7 +4,7 @@
 
 ### Contacts:
 
-[Youtube][youtube] |
+| [Youtube][youtube] |
 [Twitter][twitter] |
 [Website][website] |
 
