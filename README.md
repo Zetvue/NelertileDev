@@ -6,7 +6,7 @@
 
 [Youtube][youtube] |
 [Twitter][twitter] |
-[Website][website] (Currently working on a new one)
+[Website][website] |
 
 
 <br />
@@ -48,15 +48,12 @@
 
 ![NotToxicDev' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotToxicDev&layout=compact&theme=vue)
 
-[twitter]: https://twitter.com/NotToxicDev
-[youtube]: https://youtube.com/UCJukw7GFBmagAWuRLnStvqA
-
 <!-- My Links/Socials -->
 
 [vanillaextract]: https://discord.io/vanillaextract
 [twitter]: https://twitter.com/NotToxicDev
 [youtube]: https://youtube.com/UCJukw7GFBmagAWuRLnStvqA
-[website]: https://github.com/NotToxicDev
+[website]: https://nottoxicdev.netlify.app/
 
 <!-- Languages -->
 
