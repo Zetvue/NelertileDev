@@ -6,8 +6,8 @@
 
 [Youtube][youtube] |
 [Twitter][twitter] |
-<a href="https://nottoxicdev.github.io/"> Website</a> |
-<a href="https://dsc.gg/ntd"> Discord</a>
+[Website][website] (Currently working on a new one)
+
 
 <br />
 
@@ -56,6 +56,7 @@
 [vanillaextract]: https://discord.io/vanillaextract
 [twitter]: https://twitter.com/NotToxicDev
 [youtube]: https://youtube.com/UCJukw7GFBmagAWuRLnStvqA
+[website]: https://github.com/NotToxicDev
 
 <!-- Languages -->
 
