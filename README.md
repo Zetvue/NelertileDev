@@ -46,7 +46,7 @@
 
 ![NotToxicDev' Github Stats](https://github-readme-stats.vercel.app/api?username=NotToxicDev&theme=vue&count_private=true&show_icons=true)
 
-![NotToxicDev' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotToxicDev&layout=compact&theme=vue)
+![NotToxicDev' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotToxicDev&layout=compact&theme=vue&hide=shaderlab,hlsl&langs_count=10)
 
 <!-- My Links/Socials -->
 
