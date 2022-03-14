@@ -42,7 +42,9 @@
 
 ---
 
-### Github Stats 📄
+### Stats 📄
+
+[![wakatime](https://wakatime.com/badge/user/656efd26-71d8-4d63-84ad-b620fb69eabd.svg)](https://wakatime.com/@656efd26-71d8-4d63-84ad-b620fb69eabd)
 
 ![NotToxicDev' Github Stats](https://github-readme-stats.vercel.app/api?username=NotToxicDev&theme=vue-dark&count_private=true&show_icons=true)
 
