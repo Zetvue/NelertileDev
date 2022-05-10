@@ -4,9 +4,7 @@
 
 ### Contacts:
 
-| [Youtube][youtube] |
-[Twitter][twitter] |
-[Website][website] |
+| [Website][website] |
 
 
 <br />
@@ -55,7 +53,7 @@
 [vanillaextract]: https://discord.io/vanillaextract
 [twitter]: https://twitter.com/NotToxicDev
 [youtube]: https://youtube.com/UCJukw7GFBmagAWuRLnStvqA
-[website]: https://nottoxicdev.netlify.app/
+[website]: https://ntd.carrd.co/
 
 <!-- Languages -->
 
