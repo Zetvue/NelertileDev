@@ -53,7 +53,7 @@
 [vanillaextract]: https://discord.io/vanillaextract
 [twitter]: https://twitter.com/NotToxicDev
 [youtube]: https://youtube.com/UCJukw7GFBmagAWuRLnStvqA
-[website]: [https://ntd.carrd.co/](https://nottoxicdev.netlify.app/)
+[website]: https://nottoxicdev.netlify.app/
 
 <!-- Languages -->
 
