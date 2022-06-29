@@ -51,9 +51,9 @@
 <!-- My Links/Socials -->
 
 [vanillaextract]: https://discord.io/vanillaextract
-[twitter]: https://twitter.com/NotToxicDev
+[twitter]: https://twitter.com/Nelertile
 [youtube]: https://youtube.com/UCJukw7GFBmagAWuRLnStvqA
-[website]: https://nottoxicdev.netlify.app/
+[website]: https://nelertile.netlify.app/
 
 <!-- Languages -->
 
