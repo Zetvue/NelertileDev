@@ -7,4 +7,4 @@
 Discord: NotToxic#2352<br>
 Minecraft: NotToxicDev<br>
 
-If you have questions about accounts, or think new ones should be added, please DM me on discord. If you cant DM me that's because you are not in a server that i am in. Please join my [discord](https://discord.gg/Mk598VYkEz) server if that's the case.
+If you have questions about accounts, or think new ones should be added, please DM me on discord. If you cant DM me that's because you are not in a server that i am in. Please join my [discord](https://nottoxicdev.netlify.app/discord) server if that's the case.
