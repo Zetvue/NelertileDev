@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hey! 👋 I'm NotToxic</h1>
+<h1 align="center">Hey! 👋 I'm Nelertile.</h1>
 <h3 align="center">I am a "developer", music producer, and sometimes gamer. I love <a href="https://open.spotify.com/playlist/7tXFvBvwaxOAigNjARChJd?si=c1d8ceddeb994dae">lots of music</a>. Some of my favorite games include <a href="https://www.minecraft.net/">Minecraft</a> and <a href="https://genshin.hoyoverse.com/en/home">Genshin Impact</a>.</h3>
 
 ### Contacts:
@@ -8,10 +8,6 @@
 
 
 <br />
-
-### I'm part of the:
-
-[Vanilla Extract Team](https://github.com/Vanilla-Extract)
 
 ### Languages I'm Familiar With 👨‍💻
 
@@ -44,9 +40,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/656efd26-71d8-4d63-84ad-b620fb69eabd.svg)](https://wakatime.com/@656efd26-71d8-4d63-84ad-b620fb69eabd)
 
-![NotToxicDev' Github Stats](https://github-readme-stats.vercel.app/api?username=NotToxicDev&theme=vue-dark&count_private=true&show_icons=true)
+![NelertileDev' Github Stats](https://github-readme-stats.vercel.app/api?username=NelertileDev&theme=vue-dark&count_private=true&show_icons=true)
 
-![NotToxicDev' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotToxicDev&layout=compact&theme=vue-dark&hide=shaderlab,hlsl&langs_count=10)
+![NelertileDev' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NelertileDev&layout=compact&theme=vue-dark&hide=shaderlab,hlsl&langs_count=10)
 
 <!-- My Links/Socials -->
 
@@ -68,4 +64,4 @@
 
 ### Credits
 
-Logo made by [Zetvue](https://zetvue.carrd.co)
+Logo made by [Zetvue](https://zetvue.github.io)
